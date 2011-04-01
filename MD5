@@ -1,0 +1,12 @@
+240c1835e09038246f49aae9bf0e8282 *DESCRIPTION
+6f40bb458d3f71de0b6a1ed80dcecdcf *NAMESPACE
+fb9fac3ee36c3d7c145103260fd971a9 *R/tsb.R
+be55116db0ab266bacabf6a564e0b13e *R/tsb.check.R
+a518466c2ff155c759f07efca6af9738 *R/tsb.prep.R
+ddef9752799ba1b638b91aa4f7a11f7f *data/tiny.eg.rda
+5790a1e29f0c3ee0893b0c0cee1b2bed *man/tiny.eg.Rd
+c8e3059890a01823dcdc639e04d60a48 *man/tsb.Rd
+e65e2851e2b58c5f0cbd427d82e37898 *man/two.stage.boot-package.Rd
+f383570baee9db84986dc0f1afb79179 *src/work.c
+c2df1de8c1489e30458b75ef6dc89f44 *tests/test.R
+029e9d03e6a0bbe60ac468b35800be23 *tests/test.Rout.save
